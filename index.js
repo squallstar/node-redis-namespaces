@@ -1,1 +1,1 @@
-module.exports = require("./lib/node-redis-namespace");
+module.exports = require("./lib/node-redis-namespaces");
